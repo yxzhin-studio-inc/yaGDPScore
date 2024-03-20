@@ -18,8 +18,9 @@
 
 ## requirements
 1. php >7 (tested on 8.2)
-2. discord webhook/bot for discord integration (if enabled)
-3. smtp server for email verifying (if enabled)
+2. discord webhook for auto notifications (if enabled)
+3. discord bot for api wrapping (if enabled)
+4. smtp server for email verifying (if enabled)
 
 ## setup
 1. upload all from `src\your_gd_version` on the webserver

@@ -18,7 +18,7 @@
 
 ## requirements
 1. php >7 (tested on 8.2)
-2. discord webhook for discord integration (if enabled)
+2. discord webhook/bot for discord integration (if enabled)
 3. smtp server for email verifying (if enabled)
 
 ## setup
